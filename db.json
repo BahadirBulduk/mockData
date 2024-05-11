@@ -1,0 +1,255 @@
+{
+  "sections": [
+    {
+      "id": 0,
+      "title": "Top",
+      "selected": true
+    },
+    {
+      "id": 1,
+      "title": "War on Gaza",
+      "selected": false
+    },
+    {
+      "id": 2,
+      "title": "US Elections",
+      "selected": false
+    },
+    {
+      "id": 3,
+      "title": "Opinion1",
+      "selected": false
+    },
+    {
+      "id": 4,
+      "title": "Opinion2",
+      "selected": false
+    },
+    {
+      "id": 5,
+      "title": "Opinion3",
+      "selected": false
+    },
+    {
+      "id": 6,
+      "title": "Opinion4",
+      "selected": false
+    }
+  ],
+  "contents": [
+
+    {
+      "id": 10,
+      "sectionType": "ImageCard",
+      "channelName": "WORLD",
+      "likeCount": 19,
+      "imageCardItem": {
+        "category": "TOP STORY",
+        "imageURL": "",
+        "title": "Türkiye to reopen consulate in eastern Libya",
+        "published": "3 MIN AGO",
+        "backgroundColor": "",
+        "headerTitle": ""
+      },
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": null
+    },
+    {
+      "id": 11,
+      "sectionType": "StandardArticleCard",
+      "channelName": "WORLD",
+      "likeCount": 16,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": {
+        "category": "POLITICS",
+        "published": "2 MIN AGO",
+        "title": "Why is Kosovo becoming a museum in honour of US politicians?",
+        "description": "On 28 August 2020, Indian forces in Srinagar opened fire with “pellet guns” on a peaceful religious procession. More than forty people were wounded while several were blinded. As usual, Pakistan protested vehemently. ",
+        "imageURL": "https://cdn-i.pr.trt.com.tr/trtworld/w664/h374/q70/18325303_0-0-4164-2345.jpeg",
+        "videoURL": null
+      },
+      "opinionTweetCardItem": null,
+      "quoteCardItem": null
+    },
+    {
+      "id": 12,
+      "sectionType": "VideoCard",
+      "channelName": "WORLD",
+      "likeCount": 13,
+      "imageCardItem": null,
+      "videoCardItem": {
+        "category": "FOOD",
+        "videoURL": "https://cdn-v.pr.trt.com.tr/trtworld/website/cd34fd2b-a5b6-4390-b058-be982a50205b/master.m3u8",
+        "title": "Best 5 Things About the Turkish Breakfast",
+        "published": null,
+        "backgroundColor": "",
+        "headerTitle": ""
+      },
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": null
+    },
+    {
+      "id": 13,
+      "sectionType": "ImageCard",
+      "channelName": "WORLD",
+      "likeCount": 17,
+      "imageCardItem": {
+        "category": "POLITICS",
+        "imageURL": "",
+        "title": "What is the future of the world with possible Trump presidency",
+        "published": "3 min Ago",
+        "backgroundColor": "#00B6CA",
+        "headerTitle": "FEATURED STORY"
+      },
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": null
+    },
+    {
+      "id": 14,
+      "sectionType": "StandardVideoCard",
+      "channelName": "WORLD",
+      "likeCount": 18,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": {
+        "category": "POLITICS",
+        "published": "4 MIN AGO",
+        "title": "Why is Kosovo becoming a museum in honour of US politicians?",
+        "description": "On 28 August 2020, Indian forces in Srinagar opened fire with “pellet guns” on a peaceful religious procession. More than forty people were wounded while several were blinded. As usual, Pakistan protested vehemently. ",
+        "imageURL": null,
+        "videoURL": "https://cdn-v.pr.trt.com.tr/trtworld/website/31eac567-66ec-49fe-8be9-41bf475a55d2/master.m3u8"
+      },
+      "opinionTweetCardItem": null,
+      "quoteCardItem": null
+    },
+    {
+      "id": 15,
+      "sectionType": "OpinionTweetCard",
+      "channelName": "AFRIKA",
+      "likeCount": 21,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": {
+        "category": "OPINION",
+        "published": "3 MINS AGO",
+        "authorItem": {
+          "imageURL": "https://www.aljazeera.com/wp-content/uploads/2024/01/Untitled-1706630768.jpg?resize=96%2C96&quality=80",
+          "name": "Dr Sami A Al-Arian"
+        },
+        "description": "I'm witnessing Israel's military offensive in Gaza, a harsh reality of a settler-colonial agenda to displace Palestinians for global Jewish resettlement. It's heartbreaking."
+      },
+      "quoteCardItem": null
+    },
+    {
+      "id": 16,
+      "sectionType": "TopicCard",
+      "channelName": "WORLD",
+      "likeCount": 21,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": null,
+      "topicCardItem": {
+        "backgroundColor": "#EDD3D1",
+        "headerItem": {
+          "title": "War on Gaza",
+          "separatorColor": "#F42400",
+          "image": "dummy",
+          "videoURL": null
+        },
+        "topicStoryList": [
+          {
+            "id": 1,
+            "title": "Gaza war an extension of Israel’s settler-colonial project in Palestine",
+            "imageURL": null,
+            "category": null,
+            "authorItem": null
+          },
+          {
+            "id": 2,
+            "title": "Settler colonialism is not an ‘academic fad’",
+            "imageURL": null,
+            "category": "OPINION",
+            "authorItem": {
+              "imageURL": "https://www.aljazeera.com/wp-content/uploads/2024/01/Untitled-1706630768.jpg?resize=96%2C96&quality=80",
+              "name": "DR. SAMI AL ARIAN"
+            }
+          },
+          {
+            "id": 3,
+            "title": "Tehran ‘never sought’ to expand war in the region, Iran’s FM says",
+            "imageURL": "dummy",
+            "category": null,
+            "authorItem": null
+          },
+          {
+            "id": 4,
+            "title": "Demands for Canada to stop supplying weapons to Israel grow louder",
+            "imageURL": null,
+            "category": null,
+            "authorItem": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "sectionType": "QuoteCard",
+      "channelName": null,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": {
+        "image": "",
+        "description": "This unprecedented opposition to Israel is grudgingly reported by media organisations in the United States.Frank Esteban",
+        "authorItem": {
+          "imageURL": "https://www.aljazeera.com/wp-content/uploads/2024/01/Untitled-1706630768.jpg?resize=96%2C96&quality=80",
+          "name": "Sara Moosa",
+          "position": "Opinion  | Middle East"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "sectionType": "CarouselCard",
+      "channelName": "WORLD",
+      "likeCount": 21,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": null,
+      "topicCardItem": null,
+      "carouselCardItem": {
+        "description": "As Muslims around the world observe the holiest month, here’s a list of words you’re likely to hear during Ramadan and here’s what they mean.",
+        "headerTitle": "ENTERTAINMENT",
+        "content": [
+          {
+            "id": 1,
+            "imageURL": "dummy",
+            "videoURL": null
+          },
+          {
+            "id": 2,
+            "imageURL": null,
+            "videoURL": "https://cdn-v.pr.trt.com.tr/trtworld/website/5eb20bbc-e2ab-4d9c-b954-480885d6a30e/master.m3u8"
+          },
+          {
+            "id": 3,
+            "imageURL": "dummy",
+            "videoURL": null
+          }
+        ]
+      }
+    }
+  ]
+}
