@@ -37,7 +37,122 @@
     }
   ],
   "contents": [
-
+    {
+      "sectionType": "QuoteImageCard",
+      "channelName": null,
+      "likeCount": 26,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": {
+        "backgroundImage": "",
+        "image": "",
+        "description": "This unprecedented opposition to Israel is grudgingly reported by media organisations in the United States.",
+        "authorItem": {
+          "imageURL": "https://www.aljazeera.com/wp-content/uploads/2024/01/Untitled-1706630768.jpg?resize=96%2C96&quality=80",
+          "name": "Sara Moosa",
+          "position": "Opinion  | Middle East"
+        }
+      }
+    },
+    {
+      "sectionType": "ExploreCard",
+      "channelName": null,
+      "likeCount": 26,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": null,
+      "podcastCardItem": null,
+      "exploreCardItem": {
+        "headerItem": {
+          "title": "Explore",
+          "image": null
+        },
+        "exploreList": [
+          {
+            "language": "en",
+            "imageURL": "https://cdn-i.pr.trt.com.tr/trtworld/w664/h374/q70/18420048_0-258-4991-2811.jpeg",
+            "title": "'It didn't begin on Oct. 7': Malaysia PM slams Western 'hypocrisy''",
+            "category": "POLITICS",
+            "channelName": "WORLD"
+          },
+          {
+            "language": "en",
+            "imageURL": "https://cdn-i.pr.trt.com.tr/trtworld/w664/h374/q70/18411669_0-258-4986-2807.jpeg",
+            "title": "Apple drops electric car plans while Tesla aims to ship Roadsters next year",
+            "category": "POLITICS",
+            "channelName": "WORLD"
+          },
+          {
+            "language": "en",
+            "imageURL": "https://cdn-i.pr.trt.com.tr/trtworld/w664/h374/q70/18375690_0-196-4162-2344.jpeg",
+            "title": "Azerbaijan issues final warning to Armenia in Karabakh clashes",
+            "category": "POLITICS",
+            "channelName": "WORLD"
+          }
+        ],
+        "footerItem": {
+          "isSignUp": false,
+          "title": "Join Our Newsletter Membership",
+          "description": "Get personalized emails tailored just for you.",
+          "switchText": "Sign Up to Morning Brief"
+        }
+      }
+    },
+    {
+      "sectionType": "StayUpdateCard",
+      "channelName": null,
+      "likeCount": null,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": null,
+      "topicCardItem": null,
+      "carouselCardItem": null,
+      "stayUpdateCardItem": {
+        "headerTitle": "Stay Updated in Real-Time with Notifications",
+        "updateList": [
+          {
+            "title": "Morning Briefing",
+            "imageURL": "icNotificationOn",
+            "description": "Receive your morning briefing notifications for a fresh start to your day."
+          },
+          {
+            "title": "Breaking News",
+            "imageURL": "icNotificationOff",
+            "description": "Get breaking news updates instantly."
+          },
+          {
+            "title": "Highlights",
+            "imageURL": "icNotificationOff",
+            "description": "Essential exclusives, investigations and in-depth reporting"
+          }
+        ]
+      }
+    },
+    {
+      "sectionType": "PodcastCard",
+      "channelName": null,
+      "likeCount": 26,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": null,
+      "podcastCardItem": {
+        "indicatorColor": "#00B6CA",
+        "title": "Daily News Brief",
+        "description": "What you need to know: Biden is Warning Israel, Congress Reacts, More",
+        "boldDescription": "What you need to know:",
+        "subDescription": "Listen to the podcast",
+        "duration": "3 min",
+        "imageURL": ""
+      }
+    },
     {
       "id": 10,
       "sectionType": "ImageCard",
