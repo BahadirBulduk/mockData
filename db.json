@@ -73,19 +73,19 @@
     "updateList": [
       {
         "title": "Morning Briefing",
-        "imageURL": "icNotificationOn",
+        "selected": true,
         "description": "Receive your morning briefing notifications for a fresh start to your day.",
         
       },
       {
         "title": "Breaking News",
-        "imageURL": "icNotificationOff",
+        "selected": false,
         "description": "Get breaking news updates instantly.",
         
       },
       {
         "title": "Highlights",
-        "imageURL": "icNotificationOff",
+        "selected": false,
         "description": "Essential exclusives, investigations and in-depth reporting",
         
       }
