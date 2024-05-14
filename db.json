@@ -58,40 +58,39 @@
       }
     },
     {
-  "sectionType": "StayUpdateCard",
-  "channelName": null,
-  "likeCount": null,
-  "imageCardItem": null,
-  "videoCardItem": null,
-  "articleCardItem": null,
-  "opinionTweetCardItem": null,
-  "quoteCardItem": null,
-  "topicCardItem": null,
-  "carouselCardItem": null,
-  "stayUpdateCardItem": {
-    "headerTitle": "Stay Updated in Real-Time with Notifications",
-    "updateList": [
-      {
-        "title": "Morning Briefing",
-        "selected": true,
-        "description": "Receive your morning briefing notifications for a fresh start to your day.",
-        
-      },
-      {
-        "title": "Breaking News",
-        "selected": false,
-        "description": "Get breaking news updates instantly.",
-        
-      },
-      {
-        "title": "Highlights",
-        "selected": false,
-        "description": "Essential exclusives, investigations and in-depth reporting",
-        
+      "sectionType": "StayUpdateCard",
+      "channelName": null,
+      "likeCount": null,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": null,
+      "topicCardItem": null,
+      "carouselCardItem": null,
+      "stayUpdateCardItem": {
+        "headerTitle": "Stay Updated in Real-Time with Notifications",
+        "updateList": [
+          {
+            "title": "Morning Briefing",
+            "selected": true,
+            "description": "Receive your morning briefing notifications for a fresh start to your day."
+            
+          },
+          {
+            "title": "Breaking News",
+            "selected": false,
+            "description": "Get breaking news updates instantly."
+            
+          },
+          {
+            "title": "Highlights",
+            "selected": false,
+            "description": "Essential exclusives, investigations and in-depth reporting"
+          }
+        ]
       }
-    ]
-  }
-},
+    },
     {
       "id": 12,
       "sectionType": "VideoCard",
