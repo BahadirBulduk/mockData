@@ -58,41 +58,40 @@
       }
     },
     {
-      "id": 10,
-      "sectionType": "ImageCard",
-      "channelName": "WORLD",
-      "likeCount": 19,
-      "imageCardItem": {
-        "category": "TOP STORY",
-        "imageURL": "",
-        "title": "Türkiye to reopen consulate in eastern Libya",
-        "published": "3 MIN AGO",
-        "backgroundColor": "",
-        "headerTitle": ""
+  "sectionType": "StayUpdateCard",
+  "channelName": null,
+  "likeCount": null,
+  "imageCardItem": null,
+  "videoCardItem": null,
+  "articleCardItem": null,
+  "opinionTweetCardItem": null,
+  "quoteCardItem": null,
+  "topicCardItem": null,
+  "carouselCardItem": null,
+  "stayUpdateCardItem": {
+    "headerTitle": "Stay Updated in Real-Time with Notifications",
+    "updateList": [
+      {
+        "title": "Morning Briefing",
+        "imageURL": "icNotificationOn",
+        "description": "Receive your morning briefing notifications for a fresh start to your day.",
+        
       },
-      "videoCardItem": null,
-      "articleCardItem": null,
-      "opinionTweetCardItem": null,
-      "quoteCardItem": null
-    },
-    {
-      "id": 11,
-      "sectionType": "StandardArticleCard",
-      "channelName": "WORLD",
-      "likeCount": 16,
-      "imageCardItem": null,
-      "videoCardItem": null,
-      "articleCardItem": {
-        "category": "POLITICS",
-        "published": "2 MIN AGO",
-        "title": "Why is Kosovo becoming a museum in honour of US politicians?",
-        "description": "On 28 August 2020, Indian forces in Srinagar opened fire with “pellet guns” on a peaceful religious procession. More than forty people were wounded while several were blinded. As usual, Pakistan protested vehemently. ",
-        "imageURL": "https://cdn-i.pr.trt.com.tr/trtworld/w664/h374/q70/18325303_0-0-4164-2345.jpeg",
-        "videoURL": null
+      {
+        "title": "Breaking News",
+        "imageURL": "icNotificationOff",
+        "description": "Get breaking news updates instantly.",
+        
       },
-      "opinionTweetCardItem": null,
-      "quoteCardItem": null
-    },
+      {
+        "title": "Highlights",
+        "imageURL": "icNotificationOff",
+        "description": "Essential exclusives, investigations and in-depth reporting",
+        
+      }
+    ]
+  }
+},
     {
       "id": 12,
       "sectionType": "VideoCard",
