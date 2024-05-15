@@ -93,6 +93,25 @@
       }
     },
     {
+      "sectionType": "QuoteImageCard",
+      "channelName": null,
+      "likeCount": 26,
+      "imageCardItem": null,
+      "videoCardItem": null,
+      "articleCardItem": null,
+      "opinionTweetCardItem": null,
+      "quoteCardItem": {
+        "backgroundImage": "blabla",
+        "image": "",
+        "description": "We have never done anything to stop freedom of expression or freedom of press..",
+        "authorItem": {
+          "imageURL": null,
+          "name": "- Recep Tayyip Erdoğan",
+          "position": null
+        }
+      }
+    },
+    {
       "id": 101,
       "sectionType": "PodcastCard",
       "channelName": null,
